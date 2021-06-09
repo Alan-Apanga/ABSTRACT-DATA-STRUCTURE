@@ -1,4 +1,5 @@
 #Java Project
+
 We wish to build new cars, motorcycles and buses. These should be able to open and lock their doors (if any) and to activate the windscreen wiper. In addition, cars and buses should be able to automatically open their trunk, whereas this is done manually for motorcycles. Steering is not important at this stage of development.
 
 1.Please write an abstract class Vehicle containing the following protected member variables:
